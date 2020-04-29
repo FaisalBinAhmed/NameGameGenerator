@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/namegamegenerator/static/css/main.4302f2d0.chunk.css",
+    "main.js": "/namegamegenerator/static/js/main.a9bcffdd.chunk.js",
+    "main.js.map": "/namegamegenerator/static/js/main.a9bcffdd.chunk.js.map",
+    "runtime-main.js": "/namegamegenerator/static/js/runtime-main.96c531fb.js",
+    "runtime-main.js.map": "/namegamegenerator/static/js/runtime-main.96c531fb.js.map",
+    "static/js/2.7b10abcd.chunk.js": "/namegamegenerator/static/js/2.7b10abcd.chunk.js",
+    "static/js/2.7b10abcd.chunk.js.map": "/namegamegenerator/static/js/2.7b10abcd.chunk.js.map",
+    "index.html": "/namegamegenerator/index.html",
+    "precache-manifest.5f4d8df6625518bec7d15be2d49e3d37.js": "/namegamegenerator/precache-manifest.5f4d8df6625518bec7d15be2d49e3d37.js",
+    "service-worker.js": "/namegamegenerator/service-worker.js",
+    "static/css/main.4302f2d0.chunk.css.map": "/namegamegenerator/static/css/main.4302f2d0.chunk.css.map",
+    "static/js/2.7b10abcd.chunk.js.LICENSE.txt": "/namegamegenerator/static/js/2.7b10abcd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96c531fb.js",
+    "static/js/2.7b10abcd.chunk.js",
+    "static/css/main.4302f2d0.chunk.css",
+    "static/js/main.a9bcffdd.chunk.js"
+  ]
+}
