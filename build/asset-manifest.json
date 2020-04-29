@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NameGameGenerator/static/css/main.4302f2d0.chunk.css",
+    "main.js": "/NameGameGenerator/static/js/main.cf68130d.chunk.js",
+    "main.js.map": "/NameGameGenerator/static/js/main.cf68130d.chunk.js.map",
+    "runtime-main.js": "/NameGameGenerator/static/js/runtime-main.c8fbe73c.js",
+    "runtime-main.js.map": "/NameGameGenerator/static/js/runtime-main.c8fbe73c.js.map",
+    "static/js/2.24b4b249.chunk.js": "/NameGameGenerator/static/js/2.24b4b249.chunk.js",
+    "static/js/2.24b4b249.chunk.js.map": "/NameGameGenerator/static/js/2.24b4b249.chunk.js.map",
+    "index.html": "/NameGameGenerator/index.html",
+    "precache-manifest.ae2b26b19d946d9cea061363f941a23a.js": "/NameGameGenerator/precache-manifest.ae2b26b19d946d9cea061363f941a23a.js",
+    "service-worker.js": "/NameGameGenerator/service-worker.js",
+    "static/css/main.4302f2d0.chunk.css.map": "/NameGameGenerator/static/css/main.4302f2d0.chunk.css.map",
+    "static/js/2.24b4b249.chunk.js.LICENSE.txt": "/NameGameGenerator/static/js/2.24b4b249.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8fbe73c.js",
+    "static/js/2.24b4b249.chunk.js",
+    "static/css/main.4302f2d0.chunk.css",
+    "static/js/main.cf68130d.chunk.js"
+  ]
+}
